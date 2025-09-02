@@ -17,3 +17,4 @@ exclude = '''
 
 [tool.uv.extra-build-dependencies]
 cython-bbox = ["numpy"]
+chumpy = ["pip", "setuptools"]
